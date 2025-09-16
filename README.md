@@ -1,2 +1,4 @@
-# ABB_trajectory
-Colague project about optimizing robot trajectory 
+# ABB\_trajectory
+
+Optimization of Robotic Trajectories for University Project
+
